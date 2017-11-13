@@ -1,6 +1,6 @@
 
 #-*-coding:utf8-*-
-__anthor__ = "ice wolf"
+__author__ = "ice wolf"
 
 # 第 0004 题： 任一个英文的纯文本文件，统计其中的单词出现的个数。
 
