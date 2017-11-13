@@ -1,6 +1,6 @@
 
 #-*-coding:utf8-*-
-__anthor__ = "ice wolf"
+__author__ = "ice wolf"
 
 # 第 0015 题：纯文本文件 city.txt为城市信息,请将内容写到 city.xls 文件中
 
