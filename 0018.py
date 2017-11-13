@@ -1,6 +1,6 @@
 
 #-*-coding:utf8-*-
-__anthor__ = "ice wolf"
+__author__ = "ice wolf"
 
 # 第 0018 题： 将 第 0015 题中的 city.xls 文件中的内容写到 city.xml 文件中
 
