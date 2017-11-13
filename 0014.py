@@ -1,6 +1,6 @@
 
 #-*-coding:utf8-*-
-__anthor__ = "ice wolf"
+__author__ = "ice wolf"
 
 # 第 0014 题： 纯文本文件 student.txt为学生信息,请将内容写到 student.xls 文件中
 
