@@ -1,6 +1,6 @@
 
 #-*-coding:utf8-*-
-__anthor__ = "ice wolf"
+__author__ = "ice wolf"
 
 # 第 0016 题： 纯文本文件 numbers.txt,请将内容写到 numbers.xls 文件中
 
