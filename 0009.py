@@ -1,6 +1,6 @@
 
 #-*-coding:utf8-*-
-__anthor__ = "ice wolf"
+__author__ = "ice wolf"
 
 # 第 0009 题： 一个HTML文件，找出里面的链接。
 
